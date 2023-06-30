@@ -1,7 +1,12 @@
 # TRABAJO DE ANÁLISIS
 Integrantes: Cataña Dennis, Cocha Iveth, Paredes Miguel, Ruiz Erick y Simba Cristian 
 
-REPLICAS EN COUCHDB
-POR:
-(Cataña Dennis)
-#
+## CREACIÓN DEL SERVIDOR 
+
+## REPLICA PARA LA RECEPCIÓN DE DATOS
+
+## REPLICA PARA EL ENVÍO DE DATOS
+
+## ENVIAR ARCHIVOS A LA BASE DE DATOS
+
+## FUNCIÓN DE BÚSQUEDA
