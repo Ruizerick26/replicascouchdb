@@ -53,7 +53,7 @@ LLenamos la informacion sobre la base de datos de origen, que en nuestro caso es
 <img width="365" alt="image" src="https://github.com/Ruizerick26/replicascouchdb/assets/117743828/9ebecee1-cce2-49b3-b73b-b25a849732f0"><br>
 Volvemos ha hacer lo mismo en la parte de Target, solo que esta vez es con la informacion de la base de destino, que es remota. Volvemos a pedir autentificacion y se deben ingresar el user y la pasword del usuario que creo dicha base<br>
 <img width="350" alt="image" src="https://github.com/Ruizerick26/replicascouchdb/assets/117743828/a40bc1e9-9869-4de4-b39d-a15fb2b741aa"><br>
-Finalmente seleccionamos el tipo de replica que deseamos, si queremos que los cambios realizados en nuestra base local tambien se efectuen en la base remota (Continuos), o por el contrario que nuestras modificaciones no se relicen en la base remota (one time)
+Finalmente seleccionamos el tipo de replica que deseamos, si queremos que los cambios realizados en nuestra base local tambien se efectuen en la base remota (Continuos), o por el contrario que nuestras modificaciones no se relicen en la base remota (one time) <br>
 <img width="376" alt="image" src="https://github.com/Ruizerick26/replicascouchdb/assets/117743828/19c1b396-e0b0-4911-80c1-14d15fb49d9c"><br>
 Luego se muestra la información sobre nuestra replica, el lugar de origen, lugar de destino, la fecha en la que se realizo, si es continua o no y si se esta efectuando la replica o no <br>
 <img width="862" alt="image" src="https://github.com/Ruizerick26/replicascouchdb/assets/117743828/4435c1bd-94de-40fc-8028-6a6bd2cbd499"><br>
