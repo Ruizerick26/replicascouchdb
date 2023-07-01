@@ -8,7 +8,7 @@ Antes de hacer una réplica, es importante tener en cuenta que se debe desactiva
 <img width="607" alt="image" src="https://github.com/Ruizerick26/replicascouchdb/assets/117742977/6d905365-57b0-4bc1-9da8-3701d26f3d68"><br>
 También se debe verificar la conexión entre cliente - servidor con ayuda del comando ping<br><br>
 <img width="899" alt="image" src="https://github.com/Ruizerick26/replicascouchdb/assets/117742977/7c50f13d-9a2c-49f1-bfaf-63785d065cc8">><br>
-También se debe verificar la conexión entre cliente - servidor con ayuda del comando ping<br><br>
+Por otra parte, se crea una base de datos local, la cual con la replica va a recibir la base de datos del servidor<br><br>
 <img width="442" alt="image" src="https://github.com/Ruizerick26/replicascouchdb/assets/117742977/98289506-ea9c-4cd9-90fa-963c8bd202a4"><br>
 
 
