@@ -47,7 +47,16 @@ Verificamos que la réplica sea existosa.<br><br>
 
 ## REPLICA PARA EL ENVÍO DE DATOS
 
-
+Seleccionamos nuestra base de datos de la cual vamos a enviar informacion hacia una red remota que ya existe, la opcion de hacer replica se encuentra en el recueadro de doble flecha que se encuentra seleccionado de color rojo<br>
+<img width="830" alt="image" src="https://github.com/Ruizerick26/replicascouchdb/assets/117743828/8fda925c-51b5-4cc3-a17a-14b429977683"><br>
+LLenamos la informacion sobre la base de datos de origen, que en nuestro caso es una red local<br>
+<img width="365" alt="image" src="https://github.com/Ruizerick26/replicascouchdb/assets/117743828/9ebecee1-cce2-49b3-b73b-b25a849732f0"><br>
+Volvemos ha hacer lo mismo en la parte de Target, solo que esta vez es con la informacion de la base de destino, que es remota. Volvemos a pedir autentificacion y se deben ingresar el user y la pasword del usuario que creo dicha base<br>
+<img width="350" alt="image" src="https://github.com/Ruizerick26/replicascouchdb/assets/117743828/a40bc1e9-9869-4de4-b39d-a15fb2b741aa"><br>
+Finalmente seleccionamos el tipo de replica que deseamos, si queremos que los cambios realizados en nuestra base local tambien se efectuen en la base remota (Continuos), o por el contrario que nuestras modificaciones no se relicen en la base remota (one time)
+<img width="376" alt="image" src="https://github.com/Ruizerick26/replicascouchdb/assets/117743828/19c1b396-e0b0-4911-80c1-14d15fb49d9c"><br>
+Luego se muestra la información sobre nuestra replica, el lugar de origen, lugar de destino, la fecha en la que se realizo, si es continua o no y si se esta efectuando la replica o no <br>
+<img width="862" alt="image" src="https://github.com/Ruizerick26/replicascouchdb/assets/117743828/4435c1bd-94de-40fc-8028-6a6bd2cbd499"><br>
 ## ENVIAR ARCHIVOS A LA BASE DE DATOS
 Convertir un archivo CSV a un archivo JSON usando pandas. Los datos JSON se actualizan en la base de datos con campos adicionales como "Nombre" y "Apellido".Finalmente se sube el archivo JSON a una base local
 ![imagen](https://github.com/Ruizerick26/replicascouchdb/assets/117743367/f78a6fea-7316-4f45-b8de-c61f332090af)
