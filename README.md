@@ -17,7 +17,14 @@ Una vez ahi presionamos en crear una nueva red Y rellenamos los campos que nos s
 Y listo tendremos una nueva red creada. <br>
 ![image](https://github.com/Ruizerick26/replicascouchdb/assets/117744033/b1299400-ce15-48cb-bc10-9da64e2c317c)
 
+Para unirse a una red vamos a ir a la seccion de red y ahora aplastaremos en la opcion de unirse a una red existente.<br>
+![image](https://github.com/Ruizerick26/replicascouchdb/assets/117744033/6df500d8-92c4-4062-a995-f2fca57952aa)
 
+Nos pedira las credenciales de una red al completarlas de forma correcta la aplicacion nos unira a la red. 
+![image](https://github.com/Ruizerick26/replicascouchdb/assets/117744033/09a6c2db-ad7b-42b8-97cd-2459de071a78)
+
+En esta red a la quenos unimos se podran conectar hasta 5 dispositivos. <br>
+![image](https://github.com/Ruizerick26/replicascouchdb/assets/117744033/37b1da9b-147a-45b1-957f-0bde7c7fab3b)
 
 ## REPLICA PARA LA RECEPCIÓN DE DATOS
 Antes de hacer una réplica, es importante tener en cuenta que se debe desactivar los firewalls para no tener errores.<br><br>
