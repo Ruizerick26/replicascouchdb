@@ -2,6 +2,9 @@
 Integrantes: Cataña Dennis, Cocha Iveth, Paredes Miguel, Ruiz Erick y Simba Cristian 
 
 ## CREACIÓN DEL SERVIDOR 
+Para la creacion del servidor se uso LogMein Hamachi, el cual permitio que las Pc´s se puedan conectar en una misma red <br>
+![image](https://github.com/Ruizerick26/replicascouchdb/assets/117744033/58458811-1e75-4b64-8e44-a2ea5d64c131)
+
 
 ## REPLICA PARA LA RECEPCIÓN DE DATOS
 Antes de hacer una réplica, es importante tener en cuenta que se debe desactivar los firewalls para no tener errores.<br><br>
