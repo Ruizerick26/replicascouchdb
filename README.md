@@ -49,5 +49,9 @@ Verificamos que la réplica sea existosa.<br><br>
 
 
 ## ENVIAR ARCHIVOS A LA BASE DE DATOS
+Convertir un archivo CSV a un archivo JSON usando pandas. Los datos JSON se actualizan en la base de datos con campos adicionales como "Nombre" y "Apellido".Finalmente se sube el archivo JSON a una base local
+![imagen](https://github.com/Ruizerick26/replicascouchdb/assets/117743367/f78a6fea-7316-4f45-b8de-c61f332090af)
+![imagen](https://github.com/Ruizerick26/replicascouchdb/assets/117743367/bd9e67f6-a25e-42ab-ac25-876d691e0699)
+
 
 ## FUNCIÓN DE BÚSQUEDA
