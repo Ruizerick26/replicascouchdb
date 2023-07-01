@@ -1,4 +1,4 @@
-# TRABAJO DE ANÁLISIS
+# TRABAJO DE ANÁLISIS (RÉPLICAS)
 Integrantes: Cataña Dennis, Cocha Iveth, Paredes Miguel, Ruiz Erick y Simba Cristian 
 
 ## CREACIÓN DEL SERVIDOR 
