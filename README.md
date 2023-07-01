@@ -64,3 +64,12 @@ Convertir un archivo CSV a un archivo JSON usando pandas. Los datos JSON se actu
 
 
 ## FUNCIÓN DE BÚSQUEDA
+Es mejor conocido como  un reporte el cual permite buscar archivos con parametros en específico, para lo cual entraremos a la base de datos y cliquear en Design Documents, y crearemos un nuevo archivo view, el cual permitira crear dicho reporte:<br><br>
+![imagen](https://github.com/Ruizerick26/replicascouchdb/assets/117743844/06932df9-b385-4227-848d-3a0097fb14c5)<br><br>
+Ahora designaremos un nombre a este reporte y dentro del cuadro de comando agregaremos un condicional, de tal forma solo se mostraran los archivos con el parametro especificado en el condicional:<br><br>
+![imagen](https://github.com/Ruizerick26/replicascouchdb/assets/117743844/41ad6a79-b4a9-49ce-bedc-72543238b47a)<br><br>
+Ahora se muestra un reporte con un condicional, solicitando que se muestren los archivos con parametro de nombre Erick o apellido Simba:<br><br>
+![imagen](https://github.com/Ruizerick26/replicascouchdb/assets/117743844/2c19b271-07dc-46bd-ac0b-9c74b38778d5)<br><br>
+
+
+
