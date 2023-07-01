@@ -2,8 +2,21 @@
 Integrantes: Cataña Dennis, Cocha Iveth, Paredes Miguel, Ruiz Erick y Simba Cristian 
 
 ## CREACIÓN DEL SERVIDOR 
-Para la creacion del servidor se uso LogMein Hamachi, el cual permitio que las Pc´s se puedan conectar en una misma red <br>
-![image](https://github.com/Ruizerick26/replicascouchdb/assets/117744033/58458811-1e75-4b64-8e44-a2ea5d64c131)
+Para la creacion del servidor se uso LogMein Hamachi, el cual permitio que las Pc´s se puedan conectar en una misma red. <br>
+![image](https://github.com/Ruizerick26/replicascouchdb/assets/117744033/22fc8023-abd0-4641-b05b-7bb4f7202017)
+
+Hamachi nos pide que hamaos login para poder accerder, cuando hagamos login nos aparecera todas las funciones que tiene en su prueba gratis. <br>
+![image](https://github.com/Ruizerick26/replicascouchdb/assets/117744033/aeb34d9b-8ba4-4e79-9085-7664ae4892ee)
+
+Para crear la red tenemos que hacer click en la parte superiror de hamachi en la seccion de red.<br>
+![image](https://github.com/Ruizerick26/replicascouchdb/assets/117744033/dc91a091-b7df-4cd3-861d-bcb7fdca8eb9)
+
+Una vez ahi presionamos en crear una nueva red Y rellenamos los campos que nos solicita, los cuales son el ID de la red y una contraseña de la misma, y aplastamos en crear. <br>
+![image](https://github.com/Ruizerick26/replicascouchdb/assets/117744033/48b8190d-22f8-4efc-a69e-74b66f32e36c)
+
+Y listo tendremos una nueva red creada. <br>
+![image](https://github.com/Ruizerick26/replicascouchdb/assets/117744033/b1299400-ce15-48cb-bc10-9da64e2c317c)
+
 
 
 ## REPLICA PARA LA RECEPCIÓN DE DATOS
